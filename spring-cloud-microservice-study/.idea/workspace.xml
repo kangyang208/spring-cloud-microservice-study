@@ -125,8 +125,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="159" />
+    <option name="x" value="415" />
+    <option name="y" value="25" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
@@ -661,16 +661,15 @@
       <updated>1498101434561</updated>
       <workItem from="1498101439436" duration="500000" />
       <workItem from="1498101975071" duration="916000" />
-      <workItem from="1498103795437" duration="4719000" />
+      <workItem from="1498103795437" duration="4970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6135000" />
+    <option name="totallyTimeSpent" value="6386000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="159" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="415" y="25" width="1378" height="744" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
